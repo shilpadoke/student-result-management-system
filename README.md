@@ -26,4 +26,27 @@ Built with simplicity in mind — like organizing records in a calm, cozy café 
 
 ## ▶️ How to Run
 
+(We’ll add code files soon — this README is ready first.)
+
+---
+
+## 🌿 Future Enhancements
+- GUI interface using Tkinter  
+- Export results as PDF/Excel  
+- Login system for teachers  
+
+---
+
+## 📸 Screenshots (optional)
+_Add screenshots when ready (even simple ones)._
+
+---
+
+## 📄 License
+MIT — free to use, learn, and improve.
+
+---
+
+> Built with patience, learning, and a warm cup of coffee ☕
+
 
